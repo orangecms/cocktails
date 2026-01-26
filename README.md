@@ -35,3 +35,11 @@ On a budget flight to a conference? Ask for this:
 - tomato juice (usually served in a cup), salt, pepper
 - vodka (they have tiny bottles)
 - hope for ice
+
+## Mind Injection
+
+Keeps you awake until you're drunk
+
+- crushed ice, brown sugar
+- 2cl rum, 2cl tequila, 2cl lime juice
+- fill up with energy (alternative volt cola, everything high caffeine)
