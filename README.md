@@ -50,3 +50,10 @@ At a Stammtisch in a Kneipe and there is mostly only beer, but you don't like it
 
 - apple spritz
 - Jägermeister
+
+## Uzi
+
+Best bang for the buck.
+
+- Ouzo
+- Spezi
