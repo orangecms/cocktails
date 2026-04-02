@@ -57,3 +57,19 @@ Best bang for the buck.
 
 - Ouzo
 - Spezi
+
+## JVM
+
+Named after its ingredients, this one will lift you off until you run out of memory. Which you will.
+
+- Jägermeister
+- vodka
+- mate
+
+## KVM
+
+Another one named after its ingredients. Virtually not your supervisor!
+
+- korn
+- vodka
+- mate
