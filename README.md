@@ -73,3 +73,12 @@ Another one named after its ingredients. Virtually not your supervisor!
 - korn
 - vodka
 - mate
+
+## Pirated Iced Coffee 🏴‍☠️🧊☕
+
+The name should speak for itself, but to make sure you really get the idea, here is the recipe.
+
+- coffee
+- lots of ice
+- rum, amount as per your taste
+- possibly sugar
